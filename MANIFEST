@@ -1,0 +1,6 @@
+MANIFEST
+Makefile.PL
+README
+MacProgressBar.pm
+test.pl
+macprogressbar.pl
